@@ -22,7 +22,8 @@ I am studying software engineering at PNU tehran shomal University.
 - English(Normal)
 
 ### Other Accounts
--Gmail: Somayehshahani2@gmail.com
--Quera:(https://quera.ir/profile/somayeshahani)
+- Gmail: Somayehshahani2@gmail.com
+
+- Quera:(https://quera.ir/profile/somayeshahani)
 
   Persian Resume: <a href="https://somayehshahani.github.io/resume.fa/"> Resume </a>
