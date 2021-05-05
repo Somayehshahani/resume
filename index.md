@@ -20,7 +20,11 @@ I am studying software engineering at PNU tehran shomal University.
 
 - Persian(Advanced)
 - English(Normal)
+- 
+### Licenses & Certifications
 
+- ICDL1 
+- 
 ### Other Accounts
 - Gmail: Somayehshahani2@gmail.com
 
